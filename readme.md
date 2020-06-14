@@ -7,3 +7,7 @@ This project include minium for be used Storybook.
 ```
 npm run storybook
 ```
+
+```
+npm run storybook
+```
