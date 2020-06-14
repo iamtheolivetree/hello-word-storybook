@@ -2,7 +2,7 @@
 
 This project include minium for be used Storybook.
 
-### Run Project :fire:  :fire:  :fire:
+### Run Project :fire:    :fire:    :fire:
 
 ```
 npm install
